@@ -1,54 +1,54 @@
 # KEYWORD
-- DOMAIN-KEYWORD,amazon
-- DOMAIN-KEYWORD,google
-- DOMAIN-KEYWORD,gmail
-- DOMAIN-KEYWORD,youtube
-- DOMAIN-KEYWORD,facebook
-- DOMAIN-KEYWORD,twitter
-- DOMAIN-KEYWORD,instagram
-- DOMAIN-KEYWORD,whatsapp
-- DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,amazon
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,twitter
+DOMAIN-KEYWORD,instagram
+DOMAIN-KEYWORD,whatsapp
+DOMAIN-KEYWORD,github
 # SUFFIX
-- DOMAIN-SUFFIX,gcr.io
-- DOMAIN-SUFFIX,docker.io
-- DOMAIN-SUFFIX,fb.me
-- DOMAIN-SUFFIX,fb.com
-- DOMAIN-SUFFIX,fbcdn.net
-- DOMAIN-SUFFIX,jsdelivr.net
-- DOMAIN-SUFFIX,jsdelivr.com
-- DOMAIN-SUFFIX,twimg.com
-- DOMAIN-SUFFIX,t.co
-- DOMAIN-SUFFIX,gmail.com
-- DOMAIN-SUFFIX,g.co
-- DOMAIN-SUFFIX,goo.gl
-- DOMAIN-SUFFIX,gstatic.com
-- DOMAIN-SUFFIX,dns.google
-- DOMAIN-SUFFIX,ggpht.com
-- DOMAIN-SUFFIX,pki.goog
-- DOMAIN-SUFFIX,chrome.com
-- DOMAIN-SUFFIX,chromecast.com
-- DOMAIN-SUFFIX,chromeexperiments.com
-- DOMAIN-SUFFIX,chromercise.com
-- DOMAIN-SUFFIX,chromestatus.com
-- DOMAIN-SUFFIX,chromium.org
-- DOMAIN-SUFFIX,youtu.be
-- DOMAIN-SUFFIX,ytimg.com
-- DOMAIN-SUFFIX,t.me
-- DOMAIN-SUFFIX,telegra.ph
-- DOMAIN-SUFFIX,telegram.me
-- DOMAIN-SUFFIX,telegramdownload.com
-- DOMAIN-SUFFIX,tdesktop.com
-- DOMAIN-SUFFIX,telegram.dog
-- DOMAIN-SUFFIX,xvideos.com
+DOMAIN-SUFFIX,gcr.io
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,jsdelivr.com
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,gmail.com
+DOMAIN-SUFFIX,g.co
+DOMAIN-SUFFIX,goo.gl
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,dns.google
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,pki.goog
+DOMAIN-SUFFIX,chrome.com
+DOMAIN-SUFFIX,chromecast.com
+DOMAIN-SUFFIX,chromeexperiments.com
+DOMAIN-SUFFIX,chromercise.com
+DOMAIN-SUFFIX,chromestatus.com
+DOMAIN-SUFFIX,chromium.org
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,telegra.ph
+DOMAIN-SUFFIX,telegram.me
+DOMAIN-SUFFIX,telegramdownload.com
+DOMAIN-SUFFIX,tdesktop.com
+DOMAIN-SUFFIX,telegram.dog
+DOMAIN-SUFFIX,xvideos.com
 # ONLY Proxy (no dns pollution)
-- DOMAIN-SUFFIX,github.dev
-- DOMAIN-SUFFIX,vscode-unpkg.net
-- DOMAIN-SUFFIX,vscode-cdn.net
-- DOMAIN-SUFFIX,wikimedia.org
-- DOMAIN-SUFFIX,wikipedia.org
-- DOMAIN-SUFFIX,vimeo.com
-- DOMAIN-SUFFIX,tiktok.com
-- DOMAIN-SUFFIX,onedrive.com
-- DOMAIN-SUFFIX,digicert.com
-- DOMAIN-SUFFIX,cloudfront.net
-- DOMAIN-SUFFIX,agilebits.com
+DOMAIN-SUFFIX,github.dev
+DOMAIN-SUFFIX,vscode-unpkg.net
+DOMAIN-SUFFIX,vscode-cdn.net
+DOMAIN-SUFFIX,wikimedia.org
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,vimeo.com
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,agilebits.com
